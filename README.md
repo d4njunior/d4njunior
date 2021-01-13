@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **d4njunior/d4njunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+"Always walk through life as if you have something new to learn, and you will"
+
+I'm a full-stack developer with years experience on web development with a design background. I started software development as a freelancer, so I have learned to master the whole spectrum of web development, from programming frontend to backend.
+
+Check it out more projects on my portfolio: https://danieljr.dev
