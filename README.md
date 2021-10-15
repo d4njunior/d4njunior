@@ -6,4 +6,4 @@ Check it out more projects on my portfolio: https://danieljr.dev
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d4njunior&theme=graywhite)
+
